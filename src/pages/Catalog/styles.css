@@ -1,0 +1,9 @@
+.search-button-container {
+    background-color: #ededed;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.btn-comprar-container button {
+  background-color: #00285f;
+  color: #fff;
+  padding: 10px 40px;
+  border: 1px solid #00285f;
+}
+
+.btn-comprar-container h6 {
+  font-size: 12px;
+  font-weight: normal;
+  color: #fff !important;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  .btn-comprar-container button {
+    width: 100%;
+  }
+}

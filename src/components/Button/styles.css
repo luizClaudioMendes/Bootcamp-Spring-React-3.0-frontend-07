@@ -1,0 +1,10 @@
+.btn-primary {
+  background-color: #00285f;
+  color: #fff;
+  padding: 10px 40px;
+}
+
+.btn-primary h6 {
+  font-size: 15px;
+  font-weight: normal;
+}
